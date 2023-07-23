@@ -10,7 +10,7 @@ Key Features:
 * Real-time Chat: The application facilitates real-time chat conversations between users, allowing them to connect and exchange messages instantly.
 * Image Sharing: Users have the option to send and receive images through the chat interface, enhancing the communication experience.
 
-  <img src="https://i.ibb.co/z6XnDLF/Chat.jpg" >
+  <img src="https://i.ibb.co/QfqZsK7/Chat.png" >
 
 The Awesome-Chat project demonstrates in Android development, utilizing Java and Android Studio for the implementation. Additionally, it leverages Firebase for seamless integration of real-time database, user authentication, and image storage functionalities.
 
