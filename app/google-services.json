@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312836033460",
+    "firebase_url": "https://awesomechat-ff72e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "awesomechat-ff72e",
+    "storage_bucket": "awesomechat-ff72e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312836033460:android:e9a1c339490538c4f000e1",
+        "android_client_info": {
+          "package_name": "com.example.awesomechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312836033460-8il6r51f56r1djmvb33fr2j730q9ig2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8nOmxLHumVgarPzrxYoA1iL9EM7DSoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312836033460-8il6r51f56r1djmvb33fr2j730q9ig2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
